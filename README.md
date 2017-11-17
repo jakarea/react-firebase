@@ -3,9 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-### Tis is very simple to do list
-It will take task as input and add to the list of to do task. There is a complete button beside each task. Afte complete the
-task by clicking complete button, This task will be move to completed task list. It stores data in local storage.
+### Login and registration using firebase
+User can register with email, password and google account. Then they can login into app using this email and password.
 
 ## Folder Structure
 
@@ -30,7 +29,7 @@ my-app/
         App.js
         Auth.js
         index.css
-        
+
 ```
 
 ## Screenshort
