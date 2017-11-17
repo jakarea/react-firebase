@@ -34,4 +34,4 @@ my-app/
 
 ## Screenshort
 
-![Screenshort](https://raw.githubusercontent.com/jakarea/react-to-do-app/master/src/assets/imgs/Screenshot.png)
+![Screenshort](https://raw.githubusercontent.com/jakarea/react-to-do-app/master/src/assets/imgs/Screenshot_1.png)
